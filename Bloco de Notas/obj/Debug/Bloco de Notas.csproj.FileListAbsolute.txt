@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\bin\Debug\Bloco de Notas.exe.config
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\bin\Debug\Bloco de Notas.exe
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\bin\Debug\Bloco de Notas.pdb
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco_de_Notas.Form1.resources
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco_de_Notas.Properties.Resources.resources
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco de Notas.exe
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco de Notas.pdb
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco_de_Notas.frmLocalizar.resources
+D:\Microsoft Visual Studio\Source\Repos\Bloco de Notas\obj\Debug\Bloco_de_Notas.frmSobre.resources
